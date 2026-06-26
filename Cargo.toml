@@ -1,0 +1,13 @@
+[package]
+name = "iter-util"
+version = "1.0.0"
+edition = "2024"
+description = "Iterator utilities"
+homepage = "https://github.com/wdonne/iter-util"
+repository = "https://github.com/wdonne/iter-util"
+license = "BSD-2-Clause"
+readme = "README.md"
+keywords = ["Iterator", "utilities"]
+exclude = ["*.iml"]
+
+[dependencies]
